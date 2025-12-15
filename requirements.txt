@@ -1,0 +1,4 @@
+# Externe Bibliotheken für Autobahn Cockpit
+tkintermapview>=1.20
+requests>=2.31.0
+Pillow>=10.0.0
