@@ -26,7 +26,7 @@ Das Tool wurde entwickelt, um Pendlern, Logistikern oder Verkehrsinteressierten 
 
         🅿️ Rastplätze (Parking / LKW)
 
-        📷 Webcams (Standorte & Metadaten)
+        📷 Webcams (Standorte & Metadaten) [zur Zeit leider noch keine Webcams]
 
     Live-Feed:
 
